@@ -30,5 +30,27 @@ class secondLargest{
 
         System.out.println("Second Largest: " +secLargest);
 
+
+    //     class Main {
+    // public static void main(String[] args) {
+    //     int nu[] = {12, 70 , 63, 43};
+        
+    //     int max = Integer.MIN_VALUE;
+    //     int secMax = Integer.MIN_VALUE;
+        
+    //     for(int n : nu){
+    //         if(n > max){
+    //             secMax = max;
+    //             max = n;
+    //         }
+    //         else if(n > secMax){
+    //             secMax = n;
+    //         }
+    //     }
+    //     System.out.println(secMax);
     }
+}
+
+    }
+
 }
